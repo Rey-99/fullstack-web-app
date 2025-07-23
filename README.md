@@ -13,3 +13,6 @@ A starter environment for a full-stack web application using Node.js (Express) a
    ```bash
    cd backend
    npm install
+
+## Contributors
+- @Rey-99
